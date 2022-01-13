@@ -1,0 +1,488 @@
+
+****************************************************************************************************
+My configuratiion
+No of runs:  10
+Maximum Iterations:  500
+Population size is:  100
+Crossover probability: 0.8, Mutation probability: 0.01
+Truncation rate: 0.25, Elitism rate: 0.05
+****************************************************************************************************
+
+Random
+Best initial sol:  23113381.8278304
+Total iterations:  500
+Best Solution:  6876328.744460011
+
+Random
+Best initial sol:  22935108.08549057
+Total iterations:  500
+Best Solution:  7659429.413128281
+
+Random
+Best initial sol:  22882554.664419852
+Total iterations:  500
+Best Solution:  7078990.016672547
+
+Random
+Best initial sol:  22882942.070379224
+Total iterations:  500
+Best Solution:  7070478.524945138
+
+Random
+Best initial sol:  22813858.161405277
+Total iterations:  500
+Best Solution:  7228780.747250919
+
+Random
+Best initial sol:  22032490.73391901
+Total iterations:  500
+Best Solution:  7567462.676118597
+
+Random
+Best initial sol:  22651212.891461093
+Total iterations:  500
+Best Solution:  7448501.607337458
+
+Random
+Best initial sol:  22596880.905647703
+Total iterations:  500
+Best Solution:  7585109.149391084
+
+Random
+Best initial sol:  22990994.11566367
+Total iterations:  500
+Best Solution:  7054023.409980277
+
+Random
+Best initial sol:  22686590.415879343
+Total iterations:  500
+Best Solution:  7809766.280051661
+
+The average fitness with elitsm 0.05 is 7337887.056933597
+
+****************************************************************************************************
+My configuratiion
+No of runs:  10
+Maximum Iterations:  500
+Population size is:  200
+Crossover probability: 0.8, Mutation probability: 0.01
+Truncation rate: 0.25, Elitism rate: 0.05
+****************************************************************************************************
+
+Random
+Best initial sol:  22917318.157835234
+Total iterations:  500
+Best Solution:  6904082.082866297
+
+Random
+Best initial sol:  22526702.427379023
+Total iterations:  500
+Best Solution:  6368188.544573034
+
+Random
+Best initial sol:  22939829.37159891
+Total iterations:  500
+Best Solution:  6842074.556480643
+
+Random
+Best initial sol:  22758050.940237902
+Total iterations:  500
+Best Solution:  6679086.8771280395
+
+Random
+Best initial sol:  22455341.734365977
+Total iterations:  500
+Best Solution:  6803195.64406644
+
+Random
+Best initial sol:  22924638.293322988
+Total iterations:  500
+Best Solution:  6627583.690020892
+
+Random
+Best initial sol:  22590725.733681265
+Total iterations:  500
+Best Solution:  6650017.8831503615
+
+Random
+Best initial sol:  22576800.377100527
+Total iterations:  500
+Best Solution:  6496486.85816493
+
+Random
+Best initial sol:  22222158.286975283
+Total iterations:  500
+Best Solution:  7077601.202241084
+
+Random
+Best initial sol:  22323253.877395406
+Total iterations:  500
+Best Solution:  6892221.532103106
+
+The average fitness with elitsm 0.05 is 6734053.887079483
+
+****************************************************************************************************
+My configuratiion
+No of runs:  10
+Maximum Iterations:  500
+Population size is:  300
+Crossover probability: 0.8, Mutation probability: 0.01
+Truncation rate: 0.25, Elitism rate: 0.05
+****************************************************************************************************
+
+Random
+Best initial sol:  22591545.067952886
+Total iterations:  500
+Best Solution:  6112533.210614339
+
+Random
+Best initial sol:  22740831.12688948
+Total iterations:  500
+Best Solution:  6669323.917633994
+
+Random
+Best initial sol:  22567420.05919658
+Total iterations:  500
+Best Solution:  6316994.508867124
+
+Random
+Best initial sol:  22176328.107739992
+Total iterations:  500
+Best Solution:  6378959.956786219
+
+Random
+Best initial sol:  22755794.48065744
+Total iterations:  500
+Best Solution:  6627063.635307332
+
+Random
+Best initial sol:  22870321.82848211
+Total iterations:  500
+Best Solution:  6416446.578595063
+
+Random
+Best initial sol:  22848127.34268617
+Total iterations:  500
+Best Solution:  6107809.850859088
+
+Random
+Best initial sol:  22503598.395821482
+Total iterations:  500
+Best Solution:  6528494.901607123
+
+Random
+Best initial sol:  22825055.085790943
+Total iterations:  500
+Best Solution:  6693194.8559699105
+
+Random
+Best initial sol:  22771190.63416669
+Total iterations:  500
+Best Solution:  6481131.900199933
+
+The average fitness with elitsm 0.05 is 6433195.3316440135
+
+****************************************************************************************************
+My configuratiion
+No of runs:  10
+Maximum Iterations:  500
+Population size is:  400
+Crossover probability: 0.8, Mutation probability: 0.01
+Truncation rate: 0.25, Elitism rate: 0.05
+****************************************************************************************************
+
+Random
+Best initial sol:  22770114.701900706
+Total iterations:  500
+Best Solution:  6618111.665669692
+
+Random
+Best initial sol:  22917854.764489375
+Total iterations:  500
+Best Solution:  5889279.43880116
+
+Random
+Best initial sol:  22644981.147356376
+Total iterations:  500
+Best Solution:  5934774.546538669
+
+Random
+Best initial sol:  22457668.1697724
+Total iterations:  500
+Best Solution:  6209547.359066829
+
+Random
+Best initial sol:  22523582.07390074
+Total iterations:  500
+Best Solution:  6594363.985576751
+
+Random
+Best initial sol:  22617817.838524953
+Total iterations:  500
+Best Solution:  5988749.515432292
+
+Random
+Best initial sol:  21858131.575925816
+Total iterations:  500
+Best Solution:  6424449.873593742
+
+Random
+Best initial sol:  22562882.821971394
+Total iterations:  500
+Best Solution:  5649204.979349337
+
+Random
+Best initial sol:  22340952.79799327
+Total iterations:  500
+Best Solution:  6187509.363082733
+
+Random
+Best initial sol:  22142248.240369502
+Total iterations:  500
+Best Solution:  5663812.339348553
+
+The average fitness with elitsm 0.05 is 6115980.306645976
+
+****************************************************************************************************
+My configuratiion
+No of runs:  10
+Maximum Iterations:  500
+Population size is:  500
+Crossover probability: 0.8, Mutation probability: 0.01
+Truncation rate: 0.25, Elitism rate: 0.05
+****************************************************************************************************
+
+Random
+Best initial sol:  22300759.90016908
+Total iterations:  500
+Best Solution:  6061196.832273901
+
+Random
+Best initial sol:  22548769.52490438
+Total iterations:  500
+Best Solution:  6018885.153692481
+
+Random
+Best initial sol:  22278867.46306333
+Total iterations:  500
+Best Solution:  5947042.827757119
+
+Random
+Best initial sol:  22618876.256842945
+Total iterations:  500
+Best Solution:  6288575.726056039
+
+Random
+Best initial sol:  22727116.754187774
+Total iterations:  500
+Best Solution:  5987842.967113184
+
+Random
+Best initial sol:  22613610.51954992
+Total iterations:  500
+Best Solution:  5938936.319979032
+
+Random
+Best initial sol:  22371834.99713466
+Total iterations:  500
+Best Solution:  5857684.898779909
+
+Random
+Best initial sol:  22281707.359253187
+Total iterations:  500
+Best Solution:  6314737.441759187
+
+Random
+Best initial sol:  22753169.959819287
+Total iterations:  500
+Best Solution:  6591025.25274354
+
+Random
+Best initial sol:  21963256.620084736
+Total iterations:  500
+Best Solution:  6325362.845224381
+
+The average fitness with elitsm 0.05 is 6133129.026537878
+
+****************************************************************************************************
+My configuratiion
+No of runs:  10
+Maximum Iterations:  500
+Population size is:  600
+Crossover probability: 0.8, Mutation probability: 0.01
+Truncation rate: 0.25, Elitism rate: 0.05
+****************************************************************************************************
+
+Random
+Best initial sol:  22351544.236200888
+Total iterations:  500
+Best Solution:  6024656.752366871
+
+Random
+Best initial sol:  22763350.62020134
+Total iterations:  500
+Best Solution:  6084702.087305031
+
+Random
+Best initial sol:  22108963.97621111
+Total iterations:  500
+Best Solution:  5879955.425795745
+
+Random
+Best initial sol:  22232384.47304082
+Total iterations:  500
+Best Solution:  5885374.119810984
+
+Random
+Best initial sol:  22387180.283835035
+Total iterations:  500
+Best Solution:  6167946.614688523
+
+Random
+Best initial sol:  22518671.992852315
+Total iterations:  500
+Best Solution:  6433065.658660604
+
+Random
+Best initial sol:  22095572.759537976
+Total iterations:  500
+Best Solution:  6231841.02197314
+
+Random
+Best initial sol:  22603528.697502162
+Total iterations:  500
+Best Solution:  5971572.007465086
+
+Random
+Best initial sol:  22541312.228602838
+Total iterations:  500
+Best Solution:  6446603.961795256
+
+Random
+Best initial sol:  22281054.363558676
+Total iterations:  500
+Best Solution:  5939606.259042357
+
+The average fitness with elitsm 0.05 is 6106532.39089036
+
+****************************************************************************************************
+My configuratiion
+No of runs:  10
+Maximum Iterations:  500
+Population size is:  700
+Crossover probability: 0.8, Mutation probability: 0.01
+Truncation rate: 0.25, Elitism rate: 0.05
+****************************************************************************************************
+
+Random
+Best initial sol:  22423301.674430862
+Total iterations:  500
+Best Solution:  5612848.912953133
+
+Random
+Best initial sol:  22387342.587878462
+Total iterations:  500
+Best Solution:  5449927.171970188
+
+Random
+Best initial sol:  22608170.56623577
+Total iterations:  500
+Best Solution:  6031553.308015563
+
+Random
+Best initial sol:  22758816.15357795
+Total iterations:  500
+Best Solution:  5244183.221025264
+
+Random
+Best initial sol:  22657338.123694036
+Total iterations:  500
+Best Solution:  5853884.94800235
+
+Random
+Best initial sol:  22515236.973662946
+Total iterations:  500
+Best Solution:  6134498.621786603
+
+Random
+Best initial sol:  22356186.11039807
+Total iterations:  500
+Best Solution:  6192248.127241608
+
+Random
+Best initial sol:  22560022.48938698
+Total iterations:  500
+Best Solution:  6328910.55678888
+
+Random
+Best initial sol:  22793985.70760789
+Total iterations:  500
+Best Solution:  6129500.616937923
+
+Random
+Best initial sol:  22785304.51657027
+Total iterations:  500
+Best Solution:  5948370.680650131
+
+The average fitness with elitsm 0.05 is 5892592.616537164
+
+****************************************************************************************************
+My configuratiion
+No of runs:  10
+Maximum Iterations:  500
+Population size is:  800
+Crossover probability: 0.8, Mutation probability: 0.01
+Truncation rate: 0.25, Elitism rate: 0.05
+****************************************************************************************************
+
+Random
+Best initial sol:  21620912.790899776
+Total iterations:  500
+Best Solution:  5712711.431223544
+
+Random
+Best initial sol:  22356661.703937985
+Total iterations:  500
+Best Solution:  6539795.725078427
+
+Random
+Best initial sol:  22289971.54390488
+Total iterations:  500
+Best Solution:  5436189.880504551
+
+Random
+Best initial sol:  22743169.928914286
+Total iterations:  500
+Best Solution:  5260433.425898104
+
+Random
+Best initial sol:  22207539.040245153
+Total iterations:  500
+Best Solution:  5774491.205638089
+
+Random
+Best initial sol:  22402021.761252027
+Total iterations:  500
+Best Solution:  5756012.791556966
+
+Random
+Best initial sol:  22617368.30754416
+Total iterations:  500
+Best Solution:  5646535.017237923
+
+Random
+Best initial sol:  22512431.05397409
+Total iterations:  500
+Best Solution:  5500381.945872974
+
+Random
+Best initial sol:  22388937.75358716
+Total iterations:  500
+Best Solution:  5449942.714552238
+
+Random
+Best initial sol:  21436426.40618659
+Total iterations:  500
+Best Solution:  5923764.665791391
+
+The average fitness with elitsm 0.05 is 5700025.880335421

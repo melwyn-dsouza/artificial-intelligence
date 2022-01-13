@@ -1,0 +1,61 @@
+****************************************************************************************************
+My configuratiion
+Filename:  inst-5.tsp
+No of runs:  10
+Maximum Iterations:  500
+Population size is:  400
+Crossover probability: 0.8, Mutation probability: 0.05
+Truncation rate: 0.25, Elitism rate: 0.05
+****************************************************************************************************
+
+Random
+Best initial sol:  431418204.2851578
+Total iterations:  500
+Best Solution:  102869802.73020318
+
+Random
+Best initial sol:  436979879.7270505
+Total iterations:  500
+Best Solution:  104741474.41796973
+
+Random
+Best initial sol:  436765628.16184986
+Total iterations:  500
+Best Solution:  110456156.86443286
+
+Random
+Best initial sol:  434389987.9901689
+Total iterations:  500
+Best Solution:  115597136.62070118
+
+Random
+Best initial sol:  434564212.1016958
+Total iterations:  500
+Best Solution:  104395325.90296607
+
+Random
+Best initial sol:  438479663.7576428
+Total iterations:  500
+Best Solution:  107404269.20150074
+
+Random
+Best initial sol:  439849009.7854138
+Total iterations:  500
+Best Solution:  114546251.0826652
+
+Random
+Best initial sol:  436098139.7571732
+Total iterations:  500
+Best Solution:  99337621.94702908
+
+Random
+Best initial sol:  429698660.3237505
+Total iterations:  500
+Best Solution:  109815884.23781855
+
+Random
+Best initial sol:  437897464.0413191
+Total iterations:  500
+Best Solution:  105767763.9770619
+
+The average fitness with elitsm 0.05 is 107493168.69823487

@@ -1,0 +1,35 @@
+****************************************************************************************************
+My configuratiion
+No of runs:  5
+Maximum Iterations:  500
+Population size is:  400
+Crossover probability: 0.8, Mutation probability: 0.05
+Truncation rate: 0.25, Elitism rate: 0.05
+****************************************************************************************************
+
+Nearest Neighbour
+Best initial sol:  3992001.979969066
+Total iterations:  500
+Best Solution:  3840576.99929787
+
+Nearest Neighbour
+Best initial sol:  3992001.979969066
+Total iterations:  500
+Best Solution:  3828825.805695982
+
+Nearest Neighbour
+Best initial sol:  3992001.979969066
+Total iterations:  500
+Best Solution:  3777037.6420516237
+
+Nearest Neighbour
+Best initial sol:  3992001.979969066
+Total iterations:  500
+Best Solution:  3856415.459532256
+
+Nearest Neighbour
+Best initial sol:  3992001.979969066
+Total iterations:  500
+Best Solution:  3870068.9913071846
+
+The average fitness with elitsm 0.05 is 3834584.9795769835
