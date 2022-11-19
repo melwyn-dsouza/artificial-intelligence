@@ -1,0 +1,8 @@
+---
+- hosts: cloud
+  remote_user: ubuntu
+  
+  tasks:
+    - name: test connection
+      ansible.builtin.ping:
+...

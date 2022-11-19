@@ -1,0 +1,19 @@
+---
+- hosts: groupA
+  remote_user: ubuntu
+  become: yes
+  become_user: root
+  become_method: sudo
+  tasks:
+   - name: install apache2
+     ansible.builtin.apt: name=apache2 state=latest update_cache=yes
+   - name: Add index.html to the host web server
+     action: ansible.builtin.copy src=index.html dest=/var/www/index.html
+     notify:
+      - start apache2
+   - name: Set ownership of index.html
+     action: ansible.builtin.file path=/var/www/index.html owner=www-data group=www-data
+  handlers:
+   - name: start apache2
+     action: ansible.builtin.service name=apache2 state=started   #restarted/stopped
+...
